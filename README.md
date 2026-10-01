@@ -1,0 +1,1 @@
+This repository contains the projects, tasks, and practical implementations completed as part of my DecodeLabs Internship. It showcases my hands-on experience in programming, problem-solving, and applying technical concepts to real-world projects.
