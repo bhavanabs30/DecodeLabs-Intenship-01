@@ -1,0 +1,18 @@
+{
+  "bhavana": {
+    "total": 600.0,
+    "transactions": [
+      {
+        "amount": 600.0,
+        "category": "General",
+        "timestamp": "2026-10-03T11:34:18"
+      }
+    ],
+    "categories": {
+      "General": 600.0
+    },
+    "daily_totals": {
+      "2026-10-03": 600.0
+    }
+  }
+}

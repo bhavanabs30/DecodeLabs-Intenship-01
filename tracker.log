@@ -1,0 +1,9 @@
+2026-10-03 11:34:18 | INFO    | [bhavana] +$600.00 in 'General' | total=$600.00
+2026-10-03 11:34:31 | INFO    | [bhavana] +$220.00 in 'General' | total=$820.00
+2026-10-03 11:35:25 | INFO    | [bhavana] Exported 2 rows
+2026-10-03 11:35:50 | WARNING | [bhavana] UNDO $220.00 from 'General'
+2026-10-03 11:35:56 | INFO    | [bhavana] Session ended. Total=$600.00
+2026-10-03 11:43:07 | INFO    | [bhavana] +$200.00 in 'General' | total=$800.00
+2026-10-03 11:43:48 | INFO    | [bhavana] Exported 2 rows
+2026-10-03 11:43:52 | WARNING | [bhavana] UNDO $200.00 from 'General'
+2026-10-03 11:43:56 | INFO    | [bhavana] Session ended. Total=$600.00
